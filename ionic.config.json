@@ -1,0 +1,7 @@
+{
+  "name": "drinKing-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
