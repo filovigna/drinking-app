@@ -1,7 +1,0 @@
-{
-  "name": "drinkin-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue"
-}
